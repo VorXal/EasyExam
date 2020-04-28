@@ -1,0 +1,13 @@
+D:\Programming\EasyExam\EasyExam\bin\Debug\netcoreapp3.1\EasyExam.exe
+D:\Programming\EasyExam\EasyExam\bin\Debug\netcoreapp3.1\EasyExam.deps.json
+D:\Programming\EasyExam\EasyExam\bin\Debug\netcoreapp3.1\EasyExam.runtimeconfig.json
+D:\Programming\EasyExam\EasyExam\bin\Debug\netcoreapp3.1\EasyExam.runtimeconfig.dev.json
+D:\Programming\EasyExam\EasyExam\bin\Debug\netcoreapp3.1\EasyExam.dll
+D:\Programming\EasyExam\EasyExam\bin\Debug\netcoreapp3.1\EasyExam.pdb
+D:\Programming\EasyExam\EasyExam\obj\Debug\netcoreapp3.1\EasyExam.csprojAssemblyReference.cache
+D:\Programming\EasyExam\EasyExam\obj\Debug\netcoreapp3.1\EasyExam.csproj.CoreCompileInputs.cache
+D:\Programming\EasyExam\EasyExam\obj\Debug\netcoreapp3.1\EasyExam.AssemblyInfoInputs.cache
+D:\Programming\EasyExam\EasyExam\obj\Debug\netcoreapp3.1\EasyExam.AssemblyInfo.cs
+D:\Programming\EasyExam\EasyExam\obj\Debug\netcoreapp3.1\EasyExam.dll
+D:\Programming\EasyExam\EasyExam\obj\Debug\netcoreapp3.1\EasyExam.pdb
+D:\Programming\EasyExam\EasyExam\obj\Debug\netcoreapp3.1\EasyExam.genruntimeconfig.cache
